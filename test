@@ -1,1 +1,1 @@
-hadoop fs -ls 
+sudo -u hadoop fs -ls 
